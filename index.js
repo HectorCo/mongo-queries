@@ -12,3 +12,17 @@ All restaurants with grades A or B.
 All restaurants that have a review made in 2014-09-16.
 All restaurant their cuisine is Tapas ordered by name in ascending (normal) order.
 How many restaurants have been graded after 2015-01-01. */
+
+
+
+
+var perPage = 25 , 
+page = 1;
+
+function paginar (numPag) {
+    
+    
+}
+
+
+
